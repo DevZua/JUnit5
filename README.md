@@ -1,4 +1,4 @@
-# JUnit5 & Spock
+# JUnit5
 
 ## 좋은 단위 테스트 특징
 
